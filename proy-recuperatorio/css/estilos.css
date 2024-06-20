@@ -1,0 +1,109 @@
+.prin{
+    display: relative;
+    justify-content: center;
+    align-content: center;
+    left: 50px;
+    width: 600px;
+    background-color: black;
+    height: 800px;
+}
+.c1{
+    border-style: dashed;
+    left: 100px;
+    padding: 5px;
+    background-color: burlywood;
+    border-radius: 20%;
+    width: 20%;
+    height: 5%;
+    
+}
+.c11{
+    border-style: dashed;
+    border-color: sienna;
+    border-style: dashed;
+    border-radius: 20%;
+    height: 15%;
+}
+.c12{
+    border-style: dashed;
+    border-radius: 20%;
+    width: 100%;
+    height: 75%;
+}
+.c121{
+    display: relative;
+    border-style: dashed;
+    border-radius: 20%;
+    width: 1%;
+    height: 5%;
+}
+.c122{
+    display: relative;
+    border-style: dashed;
+    border-radius: 30%;
+    width: 1%;
+    height: 5%;
+}
+.c123{
+    top: 5%;
+    border-style: dashed;
+    border-radius: 20%;
+    width: 1%;
+    height: 5%;
+}
+.c124{
+    border-style: dashed;
+    border-radius: 20%;
+    width: 1%;
+    height: 5%;
+}
+.c2{
+    border-style: dashed;
+    padding: 5px;
+    background-color: burlywood;
+    border-radius: 30%;
+    width: 20%;
+    height: 15%;
+}
+.c3{
+    border-style: dashed;
+    background-color: burlywood;
+    border-radius: 20%;
+    width: 22%;
+    height: 15%;
+}
+.c4{
+    border-style: dashed;
+    background-color: burlywood;
+    border-radius: 20%;
+    width: 20%;
+    height: 5%;
+}
+.c5{
+    border-style: dashed;
+    background-color: burlywood;
+    border-radius: 20%;
+    width: 20%;
+    height: 10%;
+}
+.c6{
+    border-style: dashed;
+    background-color: burlywood;
+    border-radius: 20%;
+    width: 20%;
+    height: 15%;
+}
+.c7{
+    border-style: dashed;
+    background-color: burlywood;
+    border-radius: 20%;
+    width: 20%;
+    height: 15%;
+}
+.c8{
+    border-style: dashed;
+    background-color: burlywood;
+    border-radius: 20%;
+    width: 20%;
+    height: 5%;
+}
